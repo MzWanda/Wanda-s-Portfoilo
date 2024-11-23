@@ -44,3 +44,5 @@ A certification that validates foundational knowledge in IT security, including 
 Certified Ethical Hacker (CEH) (Planned)
 A planned certification to deepen my understanding of ethical hacking techniques and tools, and how to protect systems from potential security breaches.
 ## Projects
+SQL Security Investigation Project
+
